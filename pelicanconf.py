@@ -18,7 +18,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Telegram", "https://t.me/SalvadorBlogs"),
+    # ("Telegram", "https://t.me/SalvadorBlogs"),
     # ("Python.org", "https://www.python.org/"),
     # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
     # ("You can modify those links in your config file", "#"),
@@ -30,6 +30,7 @@ SOCIAL = (
     ("LinkedIn", "https://www.linkedin.com/in/sardorabdirayimov/"),
     ("X", "https://x.com/AbdirayimovS"),
     # ("Telegram", "https://t.me/sardorabdirayimov"),  # NOTE: No need to link poetry channel
+    ("Telegram", "https://t.me/SalvadorBlogs"),
 )
 
 DEFAULT_PAGINATION = False
