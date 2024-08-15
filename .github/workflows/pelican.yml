@@ -27,6 +27,12 @@ jobs:
         run: |
           pelican content -o output -s publishconf.py
 
+      - name: List output
+        run: ls -al output    
+
+      - name: Create .nojekyll file
+        run: touch output/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
