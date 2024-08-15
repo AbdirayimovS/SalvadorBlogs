@@ -28,6 +28,7 @@ LINKS = (
 SOCIAL = (
     # ("You can add links in your config file", "#"),
     ("LinkedIn", "https://www.linkedin.com/in/sardorabdirayimov/"),
+    ("Youtube", "https://www.youtube.com/@sardorabdirayimov"),
     ("Telegram", "https://t.me/SalvadorBlogs"),
     ("X", "https://x.com/AbdirayimovS"),
     # ("Telegram", "https://t.me/sardorabdirayimov"),  # NOTE: No need to link poetry channel
