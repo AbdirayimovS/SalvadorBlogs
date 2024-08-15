@@ -18,19 +18,18 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Telegram", "https://t.me/SalvadorBlogs"),
+    # ("Python.org", "https://www.python.org/"),
+    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+    # ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("LinkedIn", "#"),
-    ("Another social link", "#"),
-    ("Another social link", "#"),
-
+    # ("You can add links in your config file", "#"),
+    ("LinkedIn", "https://www.linkedin.com/in/sardorabdirayimov/"),
+    ("X", "https://x.com/AbdirayimovS"),
+    # ("Telegram", "https://t.me/sardorabdirayimov"),  # NOTE: No need to link poetry channel
 )
 
 DEFAULT_PAGINATION = False
