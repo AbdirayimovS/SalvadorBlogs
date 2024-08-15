@@ -1,5 +1,5 @@
 Title: About me
-Status: hidden
+Status: published
 Save_as: about.html
 
 Hello, my name is Sardor

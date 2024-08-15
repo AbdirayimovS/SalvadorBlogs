@@ -1,6 +1,6 @@
 AUTHOR = 'Sardor Abdirayimov'
 SITENAME = 'Salvador'
-SITEURL = ""
+SITEURL = "https://abdirayimov.me/"
 
 PATH = "content"
 
@@ -15,6 +15,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
@@ -26,7 +27,10 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ("You can add links in your config file", "#"),
+    ("LinkedIn", "#"),
     ("Another social link", "#"),
+    ("Another social link", "#"),
+
 )
 
 DEFAULT_PAGINATION = False
