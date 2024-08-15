@@ -24,4 +24,4 @@ jobs:
       with:
         to: ${{secrets.TELEGRAM_CHAT_ID }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: "New update to the site! Check out the latest content at https://abdirayimov.me/"
+        message: "${{steps.get_commit_message.outputs.message}}. Check out the latest content at https://abdirayimov.me/"
