@@ -20,9 +20,7 @@ My strategy:
 Advice from Lennart: "Throw the hand, not the punch."
 
 After game:
-I was in the red corner. My opponent was in the blue corner. Before the match started, I said quietely:
->`اقرأ باسم ربك الذي خلق`
-
+I was in the red corner. My opponent was in the blue corner. Before the match started, I said my favourite oyat from Quran. It kept me peaceful.
 First round started very well, expect the middle of the round, when I fall down when wanting to go back to protect myself. Honestly speaking, his hook was very good. I felt tired and lacked strong power in my body. I have tried to start second round fresh. In second round, he was truly dominating over me. The significant mistake I made was moving my head back while keeping my body stationary. The referee paused the game because he thought that I got knockdown. Later on, I got small injury in my left arm while throughing a jab. After another fake knockdown, the referee stopped the game. I officially lose the game.
 
 
