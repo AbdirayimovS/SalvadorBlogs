@@ -1,7 +1,7 @@
-Title: Training a deep model
-Status: published
-date: 2024-08-15 10:20
+Title: OpenCV algorithms
+Status: draft
+date: 2024-09-11 10:20
 
 
-
-Here is my first blog
+How solvePnP works? 
+....
