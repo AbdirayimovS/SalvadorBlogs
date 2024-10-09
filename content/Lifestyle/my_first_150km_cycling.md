@@ -3,7 +3,6 @@ Date: 2024-09-12 12:00
 Status: published
 <!-- Modified: 2000-00-00 00:00 -->
 Category: Lifestyle
-Summary: A Journey on Two Wheels: My Cycling Adventure
 
 Long ride on bicycle is good activity for youngsters whose want to have a challenge (whose hearth is beating for new adventure). Before it, I must recall painful incident from second grade when I was injured riding a bicycle near a bustling bus stop by my house. The only cause for such injury was my curiousity to check whether it is possible to cross the small stones in the road without touching them with the front tire.  Despite my early mishap, my curiosity to cycle long distances along well-maintained cycling roads was immense. My stamina was in very good condition.
 
