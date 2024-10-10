@@ -1,9 +1,8 @@
 Title: Boxing Competition
 Date: 2024-08-24 11:30
-Status: draft
-Modified: 2000-00-00 00:00
+Status: published
+Modified: 2024-10-10 21:00
 Category: Lifestyle
-Summary: About boxing competition
 
 Before my game:
 Today it is boxing day. In the boxing areana there are two stages: stage A and stage B.
@@ -17,11 +16,11 @@ My strategy:
 5) If the opponent wants to come closer than wait to hit with right hand. Do not wait a lot. Because a round duration is very short.
 6) Keep moving.
 
-Advice from Lennart: "Throw the hand, not the punch."
+Advice from Lennart, friend from the same gym: "Throw the hand, not the punch."
 
 After game:
 I was in the red corner. My opponent was in the blue corner. Before the match started, I said my favourite oyat from Quran. It kept me peaceful.
-First round started very well, expect the middle of the round, when I fall down when wanting to go back to protect myself. Honestly speaking, his hook was very good. I felt tired and lacked strong power in my body. I have tried to start second round fresh. In second round, he was truly dominating over me. The significant mistake I made was moving my head back while keeping my body stationary. The referee paused the game because he thought that I got knockdown. Later on, I got small injury in my left arm while throughing a jab. After another fake knockdown, the referee stopped the game. I officially lose the game.
+First round started very well, expect the middle of the round, when I accidentally fall down when wanting to go back to protect myself. Honestly speaking, his hook was very good. I felt tired and lacked strong power in my body. I have tried to start second round fresh. In second round, he was truly dominating over me. The significant mistake I made was moving my head back while keeping my body stationary. The referee paused the game because he thought that I got knockdown. Later on, I got small injury in my left arm while throughing a jab. After another fake knockdown, the referee stopped the game. I officially lose the game.
 
 
 I did not feel ashamed; my soul was satistified with my body. It was indeed good starting point. To sum up, this experiment with boxing helped me to undertand how I can handle such unusual pressure. It was truly good memory to remember.
