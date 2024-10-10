@@ -1,4 +1,4 @@
-Title: Bill Clinton: My life
+Title: Islom Karimov Yuksak Manaviyat
 Date: 2024-10-10 22:00
 Status: draft
 <!-- Modified: 2000-00-00 00:00 -->
