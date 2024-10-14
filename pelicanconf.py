@@ -43,12 +43,12 @@ GOOGLE_ANALYTICS = "AW-479273847"
 
 ANALYTICS = """
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{AW-479273847}}"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-479273847"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', '{{AW-479273847}}');
+      gtag('config', 'AW-479273847');
     </script>
 """
