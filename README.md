@@ -1,4 +1,4 @@
-# SalvadorBlogs
+# Blogs
 
 > This is repository which stores the articles uploaded to the https://abdirayimov.me/. The site is generated thanks to https://github.com/getpelican/pelican.
 
