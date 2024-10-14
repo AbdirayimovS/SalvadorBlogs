@@ -29,8 +29,8 @@ SOCIAL = (
     # ("You can add links in your config file", "#"),
     ("LinkedIn", "https://www.linkedin.com/in/sardorabdirayimov/"),
     ("Youtube", "https://www.youtube.com/@sardorabdirayimov"),
-    ("Telegram", "https://t.me/SalvadorBlogs"),
-    ("X", "https://x.com/AbdirayimovS"),
+    # ("Telegram", "https://t.me/SalvadorBlogs"),
+    # ("X", "https://x.com/AbdirayimovS"),
     # ("Telegram", "https://t.me/sardorabdirayimov"),  # NOTE: No need to link poetry channel
 )
 
@@ -38,6 +38,8 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+GOOGLE_ANALYTICS = "AW-479273847"
 
 ANALYTICS = """
     <!-- Global site tag (gtag.js) - Google Analytics -->
